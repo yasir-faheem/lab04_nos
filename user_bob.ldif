@@ -1,0 +1,12 @@
+dn: uid=bob,ou=Students,dc=cudlab,dc=local
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: Bob Example
+sn: Example
+uid: bob
+uidNumber: 10002
+gidNumber: 20000
+homeDirectory: /home/bob
+loginShell: /bin/bash
+userPassword: {SSHA}<paste_bob_hash_here>

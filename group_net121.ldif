@@ -1,0 +1,5 @@
+dn: cn=net121,ou=Groups,dc=cudlab,dc=local
+objectClass: top
+objectClass: posixGroup
+cn: net121
+gidNumber: 20000

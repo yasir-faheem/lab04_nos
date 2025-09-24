@@ -1,11 +1,12 @@
-dn ou=Students,dc=cudlab,dc=local
-objectClass organizationalUnit
-ou Students
+dn: ou=Students,dc=cudlab,dc=local
+objectClass: organizationalUnit
+ou: Students
 
-dn ou=Faculty,dc=cudlab,dc=local
-objectClass organizationalUnit
-ou Faculty
+dn: ou=Faculty,dc=cudlab,dc=local
+objectClass: organizationalUnit
+ou: Faculty
 
-dn ou=Groups,dc=cudlab,dc=local
-objectClass organizationalUnit
-ou Groups
+dn: ou=Groups,dc=cudlab,dc=local
+objectClass: organizationalUnit
+
+ou: Groups

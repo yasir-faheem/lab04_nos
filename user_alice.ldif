@@ -9,4 +9,4 @@ uidNumber: 10001
 gidNumber: 20000
 homeDirectory: /home/alice
 loginShell: /bin/bash
-userPassword: {SSHA}<paste_hash_here>
+userPassword: {SSHA}CShwlmBA3qaLYVlQnn3RNcKuuEAN5Gn+

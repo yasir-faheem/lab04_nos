@@ -9,4 +9,4 @@ uidNumber: 10003
 gidNumber: 20000
 homeDirectory: /home/charlie
 loginShell: /bin/bash
-userPassword: {SSHA}<paste_charlie_hash_here>
+userPassword: {SSHA}CShwlmBA3qaLYVlQnn3RNcKuuEAN5Gn+
